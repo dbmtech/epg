@@ -1,196 +1,190 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="&amp;xplorHD.in">
+  <channel id="AndxplorHD.in">
     <display-name lang="en">Andxplor HD</display-name>
-    <url>http://www.fixed</url>
   </channel>
   <channel id="TheMovieClub.in">
     <display-name lang="en">The Movie Club</display-name>
-    <url>http://www.fixed</url>
   </channel>
   <channel id="SouthStation.in">
     <display-name lang="en">South Station</display-name>
-    <url>http://www.fixed</url>
   </channel>
   <channel id="ShemarooBollywood.in">
     <display-name lang="en">Shemaroo Bollywood</display-name>
-    <url>http://www.fixed</url>
   </channel>
   <channel id="BollywoodHD.in">
     <display-name lang="en">Bollywood HD</display-name>
-    <url>http://www.fixed</url>
   </channel>
   <channel id="BollywoodClassic.in">
     <display-name lang="en">Bollywood Classic</display-name>
-    <url>http://www.fixed</url>
   </channel>
-  <programme start="20230207000000 +0000" stop="20230207030000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230207000000 +0000" stop="20230207030000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230207030000 +0000" stop="20230207060000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230207030000 +0000" stop="20230207060000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230207060000 +0000" stop="20230207090000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230207060000 +0000" stop="20230207090000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230207090000 +0000" stop="20230207120000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230207090000 +0000" stop="20230207120000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230207120000 +0000" stop="20230207150000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230207120000 +0000" stop="20230207150000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230207150000 +0000" stop="20230207180000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230207150000 +0000" stop="20230207180000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230207180000 +0000" stop="20230207210000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230207180000 +0000" stop="20230207210000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230207210000 +0000" stop="20230207235900 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230207210000 +0000" stop="20230207235900 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230208000000 +0000" stop="20230208030000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230208000000 +0000" stop="20230208030000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230208030000 +0000" stop="20230208060000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230208030000 +0000" stop="20230208060000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230208060000 +0000" stop="20230208090000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230208060000 +0000" stop="20230208090000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230208090000 +0000" stop="20230208120000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230208090000 +0000" stop="20230208120000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230208120000 +0000" stop="20230208150000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230208120000 +0000" stop="20230208150000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230208150000 +0000" stop="20230208180000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230208150000 +0000" stop="20230208180000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230208180000 +0000" stop="20230208210000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230208180000 +0000" stop="20230208210000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230208210000 +0000" stop="20230208235900 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230208210000 +0000" stop="20230208235900 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230209000000 +0000" stop="20230209030000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230209000000 +0000" stop="20230209030000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230209030000 +0000" stop="20230209060000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230209030000 +0000" stop="20230209060000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230209060000 +0000" stop="20230209090000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230209060000 +0000" stop="20230209090000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230209090000 +0000" stop="20230209120000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230209090000 +0000" stop="20230209120000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230209120000 +0000" stop="20230209150000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230209120000 +0000" stop="20230209150000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230209150000 +0000" stop="20230209180000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230209150000 +0000" stop="20230209180000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230209180000 +0000" stop="20230209210000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230209180000 +0000" stop="20230209210000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230209210000 +0000" stop="20230209235900 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230209210000 +0000" stop="20230209235900 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230210000000 +0000" stop="20230210030000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230210000000 +0000" stop="20230210030000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230210030000 +0000" stop="20230210060000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230210030000 +0000" stop="20230210060000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230210060000 +0000" stop="20230210090000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230210060000 +0000" stop="20230210090000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230210090000 +0000" stop="20230210120000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230210090000 +0000" stop="20230210120000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230210120000 +0000" stop="20230210150000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230210120000 +0000" stop="20230210150000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230210150000 +0000" stop="20230210180000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230210150000 +0000" stop="20230210180000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230210180000 +0000" stop="20230210210000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230210180000 +0000" stop="20230210210000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230210210000 +0000" stop="20230210235900 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230210210000 +0000" stop="20230210235900 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230211000000 +0000" stop="20230211030000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230211000000 +0000" stop="20230211030000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230211030000 +0000" stop="20230211060000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230211030000 +0000" stop="20230211060000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230211060000 +0000" stop="20230211090000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230211060000 +0000" stop="20230211090000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230211090000 +0000" stop="20230211120000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230211090000 +0000" stop="20230211120000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230211120000 +0000" stop="20230211150000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230211120000 +0000" stop="20230211150000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230211150000 +0000" stop="20230211180000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230211150000 +0000" stop="20230211180000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230211180000 +0000" stop="20230211210000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230211180000 +0000" stop="20230211210000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230211210000 +0000" stop="20230211235900 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230211210000 +0000" stop="20230211235900 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230212000000 +0000" stop="20230212030000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230212000000 +0000" stop="20230212030000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230212030000 +0000" stop="20230212060000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230212030000 +0000" stop="20230212060000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230212060000 +0000" stop="20230212090000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230212060000 +0000" stop="20230212090000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230212090000 +0000" stop="20230212120000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230212090000 +0000" stop="20230212120000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230212120000 +0000" stop="20230212150000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230212120000 +0000" stop="20230212150000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230212150000 +0000" stop="20230212180000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230212150000 +0000" stop="20230212180000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230212180000 +0000" stop="20230212210000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230212180000 +0000" stop="20230212210000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230212210000 +0000" stop="20230212235900 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230212210000 +0000" stop="20230212235900 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230213000000 +0000" stop="20230213030000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230213000000 +0000" stop="20230213030000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230213030000 +0000" stop="20230213060000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230213030000 +0000" stop="20230213060000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230213060000 +0000" stop="20230213090000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230213060000 +0000" stop="20230213090000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230213090000 +0000" stop="20230213120000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230213090000 +0000" stop="20230213120000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230213120000 +0000" stop="20230213150000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230213120000 +0000" stop="20230213150000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230213150000 +0000" stop="20230213180000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230213150000 +0000" stop="20230213180000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230213180000 +0000" stop="20230213210000 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230213180000 +0000" stop="20230213210000 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
-  <programme start="20230213210000 +0000" stop="20230213235900 +0000" channel="&amp;xplorHD.in">
-    <title lang="en">&amp;xplor HD Movie</title>
+  <programme start="20230213210000 +0000" stop="20230213235900 +0000" channel="AndxplorHD.in">
+    <title lang="en">Andxplor HD Movie</title>
   </programme>
   <programme start="20230207000000 +0000" stop="20230207030000 +0000" channel="TheMovieClub.in">
     <title lang="en">The Movie Club</title>
