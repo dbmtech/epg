@@ -509,3 +509,211 @@
   <channel site="[ENC][EX]dishtv.in[en]_0" site_id="10000000075990254" xmltv_id="10000000075990254">Zing+</channel>
   <channel site="[ENC][EX]dishtv.in[en]_0" site_id="10000000000690000" xmltv_id="10000000000690000">Zoom</channel>
 </configuration>
+
+<channel site="[ENC][EX]dstv.com_0" site_id="ZA|##|9HD||2021/08/09/SS_Logo_Variety4_4-3_xlrg.png" xmltv_id="SSVariety4.za">SS Variety 4</channel>
+  <channel site="[ENC][EX]dstv.com_0" site_id="ZA|##|12H||2020/09/01/SS_Logo_Cricket_4-3_001_xlrg.png" xmltv_id="SSCricket.za">SS Cricket</channel>
+  <channel site="[ENC][EX]dstv.com_0" site_id="ZA|##|34S||2022/02/07/SS_Logo_Variety3_4-3_001_xlrg.png" xmltv_id="SSVariety3.za">SS Variety 3</channel>
+  <channel site="[ENC][EX]dstv.com_0" site_id="ZA|##|HD5||2021/08/09/SS_Logo_Variety2_4-3_xlrg.png" xmltv_id="SSVariety2.za">SS Variety 2</channel>
+  <channel site="[ENC][EX]dstv.com_0" site_id="ZA|##|HD6||2021/08/09/SS_Logo_Variety1_4-3_xlrg.png" xmltv_id="SSVariety1.za">SS Variety 1</channel>
+  <channel site="[ENC][EX]dstv.com_0" site_id="ZA|##|HD7||2020/09/01/SS_Logo_Action_4-3_001_xlrg.png" xmltv_id="SSAction.za">SS Action</channel>
+  <channel site="[ENC][EX]flixed.io[US]_0" site_id="12553" xmltv_id="NASA.us">NASA</channel>
+  <channel site="[ENC][EX]flixed.io[US]_0" site_id="28506" xmltv_id="AXSTVNOW.us">AXSTV NOW</channel>
+  <channel site="[ENC][EX]flixed.io[US]_0" site_id="68605" xmltv_id="WillowCricket.us">Willow Cricket</channel>
+  <channel site="[ENC][EX]flixed.io[US]_0" site_id="70233" xmltv_id="ZoomUSA.us">Zoom USA</channel>
+  <channel site="[ENC][EX]flixed.io[US]_0" site_id="100316" xmltv_id="WillowXtra.us">Willow Xtra</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="143" xmltv_id="CNBCTV18PrimeHD.in">CNBC TV18 Prime HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="144" xmltv_id="ColorsHD.in">Colors HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="146" xmltv_id="HistoryTV18HD.in">History TV18 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="155" xmltv_id="SonySportsTen5HD.in">Sony Sports Ten 5 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="164" xmltv_id="TravelxpHD.in">Travelxp HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="167" xmltv_id="ZeeTVHD.in">Zee TV HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="173" xmltv_id="AajTak.in">Aaj Tak</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="175" xmltv_id="Aastha.in">Aastha</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="177" xmltv_id="ABPNews.in">ABP News</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="183" xmltv_id="B4UMusic.in">B4U Music</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="190" xmltv_id="CNBCAwaaz.in">CNBC Awaaz</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="212" xmltv_id="ETNOW.in">ET NOW</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="231" xmltv_id="News18India.in">News18 India</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="235" xmltv_id="IndiaTV.in">India TV</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="255" xmltv_id="NDTV24x7.in">NDTV 24x7</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="258" xmltv_id="NDTVIndia.in">NDTV India</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="259" xmltv_id="NDTVProfit.in">NDTV Profit</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="279" xmltv_id="ColorsRishtey.in">Colors Rishtey</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="286" xmltv_id="AnimalPlanetHDWorld.in">Animal Planet HD World</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="288" xmltv_id="Sanskar.in">Sanskar</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="291" xmltv_id="SETHD.in">SET HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="383" xmltv_id="TIMESNOW.in">TIMES NOW</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="412" xmltv_id="WION.in">WION</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="440" xmltv_id="9XJalwa.in">9X Jalwa</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="463" xmltv_id="DiscoveryHDWorld.in">Discovery HD World</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="471" xmltv_id="SonySABHD.in">Sony SAB HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="472" xmltv_id="&amp;tvHD.in">&amp;tv HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="473" xmltv_id="ZeeAnmol.in">Zee Anmol</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="474" xmltv_id="SonyPal.in">Sony Pal</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="479" xmltv_id="TLCHD.in">TLC HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="481" xmltv_id="EPIC.in">EPIC</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="491" xmltv_id="MIRRORNOW.in">MIRROR NOW</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="492" xmltv_id="CNNNews18.in">CNN News18</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="493" xmltv_id="INDIATODAY.in">INDIA TODAY</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="498" xmltv_id="IndiaNews.in">India News</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="499" xmltv_id="NewsNation.in">News Nation</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="501" xmltv_id="News24.in">News 24</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="504" xmltv_id="ZeeNews.in">Zee News</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="512" xmltv_id="IndiaNewsUPUK.in">India News UP UK</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="514" xmltv_id="SonySportsTen1HD.in">Sony Sports Ten 1 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="518" xmltv_id="SudarshanNews.in">Sudarshan News</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="527" xmltv_id="InvestigationDiscovery.in">Investigation Discovery HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="530" xmltv_id="News18UPUK.in">News18 UP UK</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="544" xmltv_id="NickJr.in">Nick Jr</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="545" xmltv_id="Nick.in">Nick</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="559" xmltv_id="Pogo.in">Pogo</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="572" xmltv_id="ZeeUPUK.in">Zee UP UK</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="584" xmltv_id="Mastiii.in">Mastiii</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="587" xmltv_id="9XM.in">9XM.in</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="591" xmltv_id="E24.in">E24</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="592" xmltv_id="ZOOM.in">ZOOM</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="593" xmltv_id="SadhnaTV.in">Sadhna TV</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="594" xmltv_id="AasthaBhajan.in">Aastha Bhajan</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="597" xmltv_id="SatsangTV.in">Satsang TV</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="652" xmltv_id="ZeeHindustan.in">Zee Hindustan</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="657" xmltv_id="ZeeBusiness.in">Zee Business</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="753" xmltv_id="MTVBeatsHD.in">MTV Beats HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="783" xmltv_id="KNewsIndia.in">K News India</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="792" xmltv_id="NewsStateUPUK.in">News State UP UK</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="808" xmltv_id="HindiKhabar.in">Hindi Khabar</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="815" xmltv_id="SonicNickelodeon.in">Sonic Nickelodeon</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="821" xmltv_id="SONYBBCEarthHD.in">SONY BBC Earth HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="828" xmltv_id="ShubhTV.in">Shubh TV</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="858" xmltv_id="REPUBLICTV.in">REPUBLIC TV</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="872" xmltv_id="SonyYAY.in">Sony YAY</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="875" xmltv_id="EurosportHD.in">Eurosport HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="876" xmltv_id="TimesNowWorld.in">Times Now World</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="889" xmltv_id="JioSportsHD.in">Jio Sports HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="891" xmltv_id="SonySportsTen2HD.in">Sony Sports Ten 2 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="892" xmltv_id="SonySportsTen3HD.in">Sony Sports Ten 3 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1145" xmltv_id="MTVHD.in">MTV HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1156" xmltv_id="JioFootballEnglishHD.in">Jio Football English HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1157" xmltv_id="ComedyCentralHD.in">Comedy Central HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1158" xmltv_id="ColorsInfinityHD.in">Colors Infinity HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1160" xmltv_id="JioCricket1HD.in">Jio Cricket 1 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1161" xmltv_id="JioCricket2HD.in">Jio Cricket 2 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1163" xmltv_id="JioGamesHD.in">JioGames HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1165" xmltv_id="JioFootball1HD.in">Jio Football 1 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1165" xmltv_id="JioFootball5HD.in">Jio Football 5 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1166" xmltv_id="JioCricket3HD.in">Jio Cricket 3 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1167" xmltv_id="JioFootball2HD.in">Jio Football 2 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1168" xmltv_id="JioFootball3HD.in">Jio Football 3 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1169" xmltv_id="JioFootball4HD.in">Jio Football 4 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1205" xmltv_id="ABPGanga.in">ABP Ganga</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1226" xmltv_id="NickHD+.in">Nick HD+</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1234" xmltv_id="JioFootballHindiHD.in">Jio Football Hindi HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1248" xmltv_id="BolHadippa.in">Bol Hadippa</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1249" xmltv_id="KadakHits.in">Kadak Hits</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1251" xmltv_id="TV9Bharatvarsh.in">TV9 Bharatvarsh</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1266" xmltv_id="BflixMovies.in">Bflix Movies</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1272" xmltv_id="JioCricket4HD.in">Jio Cricket 4 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1433" xmltv_id="IndiaScience.in">India Science</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1528" xmltv_id="Network10.in">Network 10</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1814" xmltv_id="JioFootball6HD.in">Jio Football 6 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1823" xmltv_id="JioFootball7HD.in">Jio Football 7 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1824" xmltv_id="JioFootball8HD.in">Jio Football 8 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1827" xmltv_id="AakashEduTVJEE.in">Aakash EduTV NEET</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1851" xmltv_id="AakashEduTVNEET.in">Aakash EduTV JEE</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1889" xmltv_id="JioSports1HD.in">Jio Sports 1 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1890" xmltv_id="JioSports2HD.in">Jio Sports 2 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1918" xmltv_id="JioCricketEnglishHD.in">Jio Cricket HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1920" xmltv_id="TheQKahaniyan.in">The Q Kahaniyan</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1970" xmltv_id="JioSports3HD.in">Jio Sports 3 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1971" xmltv_id="JioSports4HD.in">Jio Sports 4 HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="1984" xmltv_id="Sports18–1HD.in">Sports18 – 1HD</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="2036" xmltv_id="DilSe.in">Dil Se</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="2037" xmltv_id="PopPataka.in">Pop Pataka</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="2040" xmltv_id="BollywoodHungama.in">Bollywood Hungama</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="2041" xmltv_id="BhaktiSagar.in">Bhakti Sagar</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="2042" xmltv_id="Nazraana.in">Nazraana</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="2043" xmltv_id="ArtistAloud.in">Artist Aloud</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="2064" xmltv_id="MerchantRecords.in">Merchant Records</channel>
+  <channel site="[ENC][EX]jio.com[en]_0" site_id="2066" xmltv_id="TheQComedistaan.in">The Q Comedistaan</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="7" xmltv_id="B4UMovies.in">B4U Movies</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="8" xmltv_id="StarPlusHD.in">Star Plus HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="24" xmltv_id="StarSports1HindiHD.in">Star Sports 1 Hindi HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="32" xmltv_id="SonyPIXHD.in">Sony PIX HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="54" xmltv_id="TheQ.in">The Q</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="56" xmltv_id="SonyWAH.in">Sony Wah</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="61" xmltv_id="ColorsCineplexHD.in">Colors Cineplex HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="64" xmltv_id="ZeeAnmolCinema.in">Zee Anmol Cinema</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="78" xmltv_id="StarSports1HD.in">Star Sports 1 HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="80" xmltv_id="SonyMAXHD.in">Sony MAX HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="100" xmltv_id="ZeeAction.in">Zee Action</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="114" xmltv_id="Disney.in">Disney</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="119" xmltv_id="DiscoveryKids.in">Discovery Kids</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="120" xmltv_id="SonyMAX2.in">Sony MAX 2</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="141" xmltv_id="StarSportsSelect1.in">Star Sports Select 1 (Hotstar)</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="144" xmltv_id="DisneyJunior.in">Disney Junior</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="175" xmltv_id="ZeeBollywood.in">Zee Bollywood</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="210" xmltv_id="MN+HD.in">MN+ HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="235" xmltv_id="StarSports2HD.in">Star Sports 2 HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="244" xmltv_id="StarBharatHD.in">Star Bharat HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="245" xmltv_id="StarGoldHD.in">Star Gold HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="246" xmltv_id="StarSportsSelect1HD.in">Star Sports Select 1 HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="267" xmltv_id="&amp;picturesHD.in">&amp;pictures HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="367" xmltv_id="FOXLifeHD.in">FOX Life HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="382" xmltv_id="ZeeZestHD.in">Zee Zest HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="413" xmltv_id="NatGeoWildHD.in">Nat Geo Wild HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="463" xmltv_id="StarSportsSelect2HD.in">Star Sports Select 2 HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="500" xmltv_id="Vedic.in">Vedic</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="502" xmltv_id="ZeeCafeHD.in">Zee Cafe HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="503" xmltv_id="ZeeCinemaHD.in">Zee Cinema HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="506" xmltv_id="&amp;flixHD.in">&amp;flix HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="530" xmltv_id="&amp;priveHD.in">&amp;prive HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="562" xmltv_id="MoviesNowHD.in">Movies Now HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="587" xmltv_id="SuperHungama.in">Super Hungama</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="599" xmltv_id="MNXHD.in">MNX HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="600" xmltv_id="StarSports1.in">Star Sports 1 (Hotstar)</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="601" xmltv_id="StarSports1Hindi.in">Star Sports 1 Hindi (Hotstar)</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="603" xmltv_id="StarSportsSelect2.in">Star Sports Select 2 (Hotstar)</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="605" xmltv_id="NationalGeographicHD.in">National Geographic HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="609" xmltv_id="StarSports2.in">Star Sports 2 (Hotstar)</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="681" xmltv_id="CartoonNetworkHD+.in">Cartoon Network HD+</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="691" xmltv_id="DDNewsHD.in">DD News HD</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="696" xmltv_id="RBharat.in">R Bharat</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="727" xmltv_id="ZeeClassic.in">Zee Classic</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="730" xmltv_id="B4UKadak.in">B4U Kadak</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="775" xmltv_id="DIVYA.in">DIVYA</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="867" xmltv_id="Gubbare.in">Gubbare</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="888" xmltv_id="Ishara.in">Ishara</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="905" xmltv_id="ETVBalBharat.in">ETV Bal Bharat</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="908" xmltv_id="NimbarkTV.in">Nimbark TV</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="923" xmltv_id="TravelXP4KHDR.in">TravelXP 4K HDR</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="950" xmltv_id="ETNowSwadesh.in">ET Now Swadesh</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="966" xmltv_id="TimesNowNavbharat.in">Times Now Navbharat</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="1000" xmltv_id="ColorsCineplexBollywood.in">Colors Cineplex Bollywood</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="1025" xmltv_id="ColorsCineplexSuperhits.in">Colors Cineplex Superhits</channel>
+  <channel site="[ENC][EX]tataplay.com_1" site_id="1032" xmltv_id="SansadTVHD.in">Sansad TV HD</channel>
+  <channel site="[ENC][EX]tvguide.co.uk_0" site_id="579" xmltv_id="BTSport4.uk">BT Sport 4</channel>
+  <channel site="[ENC][EX]tvguide.co.uk_0" site_id="876" xmltv_id="BTSport1.uk">BT Sport 1</channel>
+  <channel site="[ENC][EX]tvguide.co.uk_0" site_id="880" xmltv_id="BTSport2.uk">BT Sport 2</channel>
+  <channel site="[ENC][EX]tvguide.co.uk_0" site_id="968" xmltv_id="BTSport3.uk">BT Sport 3</channel>
+  <channel site="[ENC][EX]tvguide.co.uk_0" site_id="1105" xmltv_id="SkySportsMainEvent.uk">Sky Sports Main Event</channel>
+  <channel site="[ENC][EX]tvguide.co.uk_0" site_id="1107" xmltv_id="SkySportsMix.uk">Sky Sports Mix</channel>
+  <channel site="[ENC][EX]tvguide.co.uk_0" site_id="1184" cyclone_site="[ENC][EX]ontvtonight.com[UK]_0" cyclone_id="S341770728|##|5310705194/freesports" xmltv_id="FreeSports.uk">FreeSports</channel>
+  <channel site="[ENC][EX]tvguide.co.uk_0" site_id="1800" xmltv_id="SkySportsCricket.uk">Sky Sports Cricket</channel>
+  <channel site="[ENC]astro.com.my_0" site_id="131" xmltv_id="AXNHD.my">AXN HD</channel>
+  <channel site="[ENC]astro.com.my_0" site_id="143" xmltv_id="HBOHD.my">HBO HD</channel>
+  <channel site="[ENC]astro.com.my_0" site_id="178" xmltv_id="BollyOneHD.my">BollyOne HD</channel>
+  <channel site="[ENC]astro.com.my_0" site_id="194" xmltv_id="WWENetworkHD.my">WWE Network HD</channel>
+  <channel site="[ENC]astro.com.my_0" site_id="197" xmltv_id="AstroCricketHD.my">Astro Cricket HD</channel>
+  <channel site="[ENC]astro.com.my_0" site_id="270" xmltv_id="WarnerTVHD.my">Warner TV HD</channel>
+  <channel site="[ENC]astro.com.my_0" site_id="337" xmltv_id="CINEMAXHD.my">CINEMAX HD</channel>
+  <channel site="[ENC]astro.com.my_0" site_id="365" xmltv_id="ColorsAsia.my">Colors Asia HD</channel>
+  <channel site="[ENC]astro.com.my_0" site_id="391" xmltv_id="HITSMoviesHD.my">HITS Movies HD</channel>
+  <channel site="[ENC]astro.com.my_0" site_id="448" xmltv_id="ParamountNetwork.my">Paramount Network</channel>
+  <channel site="[ENC]astro.com.my_0" site_id="449" xmltv_id="HBOHits.my">HBO Hits</channel>
+  <channel site="[ENC]astro.com.my_0" site_id="450" xmltv_id="HBOFamily.my">HBO Family</channel>
+  <channel site="[ENC]astro.com.my_0" site_id="454" xmltv_id="SHOWCASEMOVIES.my">SHOWCASE MOVIES</channel>
+  <channel site="[ENC]bein.com[sports][en]_0" site_id="20" xmltv_id="beINSPORTS1EN.qa">beIN SPORTS1 ENGLISH</channel>
+  <channel site="[ENC]bein.com[sports][en]_0" site_id="21" xmltv_id="beINSPORTS2EN.qa">beIN SPORTS2 ENGLISH</channel>
+  <channel site="[ENC]bein.com[sports][en]_0" site_id="22" xmltv_id="beINSPORTS3EN.qa">beIN SPORTS3 ENGLISH</channel>
+  <channel site="[ENC]mncvision.id_0" site_id="12" xmltv_id="GalaxyPremium.id">Galaxy Premium</channel>
+  <channel site="[ENC]mncvision.id_0" site_id="13" xmltv_id="Galaxy.id">Galaxy</channel>
+  <channel site="[ENC]mncvision.id_0" site_id="405" xmltv_id="HBOSignatureHD.id">HBO Signature HD</channel>
