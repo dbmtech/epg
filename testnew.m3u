@@ -1,3 +1,0 @@
-#EXTM3U x-tvg-url="https://github.com/dbmtech/Customized-EPG/raw/main/dbmtech_epg.xml.gz"
-#EXTINF:-1 tvg-id="&flixHD.in" tvg-name="&flix HD" tvg-country="IN" tvg-logo="https://i.imgur.com/kDLgtcz.jpg" tvg-chno="836" group-title="Entertainment (English)",&flix HD
-http://212.224.84.217:2200/R-EX/HINDI_AND_FLIX_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=%7CUser-agent=REDLINECLIENT
