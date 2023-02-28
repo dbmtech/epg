@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programs>
+<day name="pzts">
+<show>
+<start>00:00</start>
+<stop>03:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>03:00</start>
+<stop>06:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>06:00</start>
+<stop>09:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>09:00</start>
+<stop>12:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>12:00</start>
+<stop>15:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>15:00</start>
+<stop>18:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>18:00</start>
+<stop>21:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>21:00</start>
+<stop>00:00</stop>
+<title>No Program Data Available</title>
+</show>
+</day>
+<day name="sl">
+<show>
+<start>00:00</start>
+<stop>03:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>03:00</start>
+<stop>06:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>06:00</start>
+<stop>09:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>09:00</start>
+<stop>12:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>12:00</start>
+<stop>15:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>15:00</start>
+<stop>18:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>18:00</start>
+<stop>21:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>21:00</start>
+<stop>00:00</stop>
+<title>No Program Data Available</title>
+</show>
+</day>
+<day name="prsmb">
+<show>
+<start>00:00</start>
+<stop>03:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>03:00</start>
+<stop>06:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>06:00</start>
+<stop>09:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>09:00</start>
+<stop>12:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>12:00</start>
+<stop>15:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>15:00</start>
+<stop>18:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>18:00</start>
+<stop>21:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>21:00</start>
+<stop>00:00</stop>
+<title>No Program Data Available</title>
+</show>
+</day>
+<day name="cm">
+<show>
+<start>00:00</start>
+<stop>03:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>03:00</start>
+<stop>06:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>06:00</start>
+<stop>09:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>09:00</start>
+<stop>12:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>12:00</start>
+<stop>15:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>15:00</start>
+<stop>18:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>18:00</start>
+<stop>21:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>21:00</start>
+<stop>00:00</stop>
+<title>No Program Data Available</title>
+</show>
+</day>
+<day name="cmrts">
+<show>
+<start>00:00</start>
+<stop>03:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>03:00</start>
+<stop>06:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>06:00</start>
+<stop>09:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>09:00</start>
+<stop>12:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>12:00</start>
+<stop>15:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>15:00</start>
+<stop>18:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>18:00</start>
+<stop>21:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>21:00</start>
+<stop>00:00</stop>
+<title>No Program Data Available</title>
+</show>
+</day>
+<day name="pzr">
+<show>
+<start>00:00</start>
+<stop>03:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>03:00</start>
+<stop>06:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>06:00</start>
+<stop>09:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>09:00</start>
+<stop>12:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>12:00</start>
+<stop>15:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>15:00</start>
+<stop>18:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>18:00</start>
+<stop>21:00</stop>
+<title>No Program Data Available</title>
+</show>
+<show>
+<start>21:00</start>
+<stop>00:00</stop>
+<title>No Program Data Available</title>
+</show>
+</day>
+</programs>
